@@ -22,6 +22,7 @@
 		08757E9A2AD54CE700151C42 /* IGTextFieldModifier.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08757E992AD54CE700151C42 /* IGTextFieldModifier.swift */; };
 		08757E9C2AD54E2000151C42 /* CreateUserNameView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08757E9B2AD54E2000151C42 /* CreateUserNameView.swift */; };
 		08757E9E2AD563BC00151C42 /* CreatePasswordView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08757E9D2AD563BC00151C42 /* CreatePasswordView.swift */; };
+		08757EA02AD5678D00151C42 /* CompleteSignUpView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08757E9F2AD5678D00151C42 /* CompleteSignUpView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -41,6 +42,7 @@
 		08757E992AD54CE700151C42 /* IGTextFieldModifier.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IGTextFieldModifier.swift; sourceTree = "<group>"; };
 		08757E9B2AD54E2000151C42 /* CreateUserNameView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreateUserNameView.swift; sourceTree = "<group>"; };
 		08757E9D2AD563BC00151C42 /* CreatePasswordView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreatePasswordView.swift; sourceTree = "<group>"; };
+		08757E9F2AD5678D00151C42 /* CompleteSignUpView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CompleteSignUpView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -144,6 +146,7 @@
 				08757E972AD4D37300151C42 /* AddEmailView.swift */,
 				08757E9B2AD54E2000151C42 /* CreateUserNameView.swift */,
 				08757E9D2AD563BC00151C42 /* CreatePasswordView.swift */,
+				08757E9F2AD5678D00151C42 /* CompleteSignUpView.swift */,
 			);
 			path = Authentication;
 			sourceTree = "<group>";
@@ -281,6 +284,7 @@
 				08757E962AD4B53E00151C42 /* LoginView.swift in Sources */,
 				08757E6A2AD3F62E00151C42 /* InstagramApp.swift in Sources */,
 				08757E982AD4D37300151C42 /* AddEmailView.swift in Sources */,
+				08757EA02AD5678D00151C42 /* CompleteSignUpView.swift in Sources */,
 				08757E942AD4AF9900151C42 /* SearchView.swift in Sources */,
 				08757E9A2AD54CE700151C42 /* IGTextFieldModifier.swift in Sources */,
 				08757E8E2AD4186300151C42 /* UserStatView.swift in Sources */,
