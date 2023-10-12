@@ -24,6 +24,7 @@
 		08757E9E2AD563BC00151C42 /* CreatePasswordView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08757E9D2AD563BC00151C42 /* CreatePasswordView.swift */; };
 		08757EA02AD5678D00151C42 /* CompleteSignUpView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08757E9F2AD5678D00151C42 /* CompleteSignUpView.swift */; };
 		08757EA22AD6A9C200151C42 /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08757EA12AD6A9C200151C42 /* User.swift */; };
+		08757EA42AD816A600151C42 /* CurrentUserProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08757EA32AD816A600151C42 /* CurrentUserProfileView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -45,6 +46,7 @@
 		08757E9D2AD563BC00151C42 /* CreatePasswordView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreatePasswordView.swift; sourceTree = "<group>"; };
 		08757E9F2AD5678D00151C42 /* CompleteSignUpView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CompleteSignUpView.swift; sourceTree = "<group>"; };
 		08757EA12AD6A9C200151C42 /* User.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
+		08757EA32AD816A600151C42 /* CurrentUserProfileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CurrentUserProfileView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -167,6 +169,7 @@
 			isa = PBXGroup;
 			children = (
 				08757E8A2AD4038800151C42 /* ProfileView.swift */,
+				08757EA32AD816A600151C42 /* CurrentUserProfileView.swift */,
 			);
 			path = Profile;
 			sourceTree = "<group>";
@@ -285,6 +288,7 @@
 				08757E9C2AD54E2000151C42 /* CreateUserNameView.swift in Sources */,
 				08757E6C2AD3F62E00151C42 /* ContentView.swift in Sources */,
 				08757E962AD4B53E00151C42 /* LoginView.swift in Sources */,
+				08757EA42AD816A600151C42 /* CurrentUserProfileView.swift in Sources */,
 				08757E6A2AD3F62E00151C42 /* InstagramApp.swift in Sources */,
 				08757E982AD4D37300151C42 /* AddEmailView.swift in Sources */,
 				08757EA02AD5678D00151C42 /* CompleteSignUpView.swift in Sources */,
